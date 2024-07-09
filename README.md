@@ -31,7 +31,7 @@
 
 [macOS Big Sur 11 (MediaFire)](https://www.mediafire.com/file/irna8hwybkhl41f/BigSur13-3-1.iso/file)
 
-[macOS Big Sur 11 (mega.nz)](mega.nz/file/P3AyDJQI#Bfp7qyEGZvSpCPqARaLyZWlOb0TuweTGAR3Yg9jT4Gg)
+[macOS Big Sur 11 (mega.nz)](https://mega.nz/file/P3AyDJQI#Bfp7qyEGZvSpCPqARaLyZWlOb0TuweTGAR3Yg9jT4Gg)
 
 ### macOS Catalina
 [macOS Catalina 10.15 (archive.org)](https://archive.org/download/macos_iso/Catalina_10.15.7.iso)
